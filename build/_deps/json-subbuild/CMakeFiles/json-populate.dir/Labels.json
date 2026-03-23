@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/CMakeFiles/json-populate"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/CMakeFiles/json-populate.rule"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule"
+		},
+		{
+			"file" : "O:/SkillboxSearchEngine/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"json-populate"
+		],
+		"name" : "json-populate"
+	}
+}
